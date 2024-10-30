@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +34,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
