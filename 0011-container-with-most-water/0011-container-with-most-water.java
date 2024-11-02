@@ -12,12 +12,8 @@ class Solution {
             int res = border * len;
             result = Math.max(res, result);
 
-            if(height[l] < height[r]) {
-                l++;
-            }
-            else {
-                r--;
-            }
+            if(height[l] < height[r]) l++;
+            else r--;
         }
         return result;
     }
