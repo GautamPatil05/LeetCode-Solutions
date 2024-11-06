@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [3291-find-if-array-can-be-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2554-minimum-total-distance-traveled](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2554-minimum-total-distance-traveled) |
+| [3291-find-if-array-can-be-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0136-single-number) |
+| [3291-find-if-array-can-be-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
