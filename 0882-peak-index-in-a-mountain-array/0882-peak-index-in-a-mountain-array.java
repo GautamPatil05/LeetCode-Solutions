@@ -1,8 +1,9 @@
 class Solution {
     public int peakIndexInMountainArray(int[] arr) {
         
-        int start = 1;
-        int end = arr.length - 2;
+        int start = 1; // peak never lies on 1st index
+        int end = arr.length - 2; // neither lies on last index
+        // by doing this we avoid checks in if statement
 
         while(start <= end) {
 
