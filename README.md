@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Prefix Sum
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
