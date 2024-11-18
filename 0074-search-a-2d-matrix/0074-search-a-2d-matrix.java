@@ -4,11 +4,6 @@ class Solution {
         int row = 0;
         int col = matrix[0].length - 1;
 
-        // if(matrix.length == 1 && matrix[0].length == 1) {
-
-        //     if(matrix[0][0] == target) return true;
-        // }
-
         while(row <= matrix.length - 1 && col >= 0) {
 
             if(matrix[row][col] == target) {
