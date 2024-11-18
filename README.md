@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
