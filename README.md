@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
