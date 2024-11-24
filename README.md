@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [2089-maximum-matrix-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1677-matrix-diagonal-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
+| [2089-maximum-matrix-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
