@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [3427-special-array-ii](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
