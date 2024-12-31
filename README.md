@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [1025-minimum-cost-for-tickets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
