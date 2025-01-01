@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0494-target-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
