@@ -1,5 +1,3 @@
-
-
 class Solution {
     public int waysToSplitArray(int[] nums) {
         long leftSum = 0, rightSum = 0;
