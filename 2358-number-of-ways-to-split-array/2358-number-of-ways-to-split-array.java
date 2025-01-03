@@ -11,7 +11,7 @@ class Solution {
         for (int i = 0; i < nums.length - 1; i++) {
 
             leftSum += nums[i]; // adding one by one in left 
-            rightSum -= nums[i]; // substracting one by one from right 
+            rightSum -= nums[i]; // subtracting one by one from right 
             if (leftSum >= rightSum) { // comparing
                 validSplits++;
             }
