@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2164-two-best-non-overlapping-events) |
