@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2358-number-of-ways-to-split-array) |
