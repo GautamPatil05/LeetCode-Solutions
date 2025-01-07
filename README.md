@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1940-maximum-xor-for-each-query](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
