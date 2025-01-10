@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0898-transpose-matrix](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
+| [0952-word-subsets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0952-word-subsets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1635-number-of-good-pairs](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0500-keyboard-row](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
+| [0952-word-subsets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
