@@ -1,21 +1,28 @@
+import java.util.HashMap;
+
 class Solution {
     public int singleNumber(int[] nums) {
         
-        // Arrays.sort(nums);
+        HashMap<Integer, Integer> freq = new HashMap<>();
 
-        // for(int i = 0; i < nums.length - 1; i=i+2) {
+        for(int i = 0; i < nums.length; i++) {
 
-        //     if(nums[i] != nums[i+1]) {
-        //         return nums[i];
-        //     }
-        // }
-        // return nums[nums.length - 1];
+            if(freq.containsKey(nums[i])) {
 
-        int res = 0;
-        for(int i : nums) {
-
-            res = res ^ i;
+                freq.put(nums[i], freq.get(nums[i]) + 1);
+            }
+            else {
+                freq.put(nums[i], 1);
+            }
         }
-        return res;
+
+        for(int key : freq.keySet()) {
+
+            if(freq.get(key) == 1) {
+                return key;
+            }
+        }
+
+        return -1;
     }
 }
