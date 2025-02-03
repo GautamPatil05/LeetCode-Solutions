@@ -21,6 +21,6 @@ class Solution {
             } 
         }
 
-        return ans.substring(1).toString();
+        return ans.substring(1).toString(); // 0 position has the space 
     }
 }
