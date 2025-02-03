@@ -17,7 +17,6 @@ class Solution {
             str = str.reverse(); // reverse the word
 
             if(str.length() > 0) { // if word exist
-                // ans.append(" "); 
                 ans.append(" " +str); // append word with space
             } 
         }
