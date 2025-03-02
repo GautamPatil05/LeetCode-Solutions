@@ -1,28 +1,45 @@
 class Solution {
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
-        HashMap<Integer,Integer> hm=new HashMap<>();
-        for (int[] i : nums1){
-            hm.put(i[0],i[1]);
-        }
-        for (int[] i : nums2){
-            if (hm.containsKey(i[0])){
-                hm.put(i[0],hm.get(i[0])+i[1]);
+        int i = 0;
+        int j = 0;
+
+        
+        
+        ArrayList<int[]> arr = new ArrayList<>();
+
+
+        while(i < nums1.length && j < nums2.length){
+            int[] ko = new int[2];
+
+            if(nums1[i][0] == nums2[j][0]){
+                ko[0] = nums1[i][0];
+                ko[1] = nums1[i][1] + nums2[j][1];
+                i++;
+                j++;
+            }
+            else if( nums1[i][0] < nums2[j][0]){
+                ko[0] = nums1[i][0];
+                ko[1] = nums1[i][1];
+
+                i++;
             }
             else{
-                hm.put(i[0],i[1]);
+                ko[0] = nums2[j][0];
+                ko[1] = nums2[j][1];
+
+                j++;
             }
+
+            arr.add(ko);
         }
-        int[] arr=new int[hm.size()];
-        int x=0;
-        for (int i : hm.keySet()){
-            arr[x]=i;
-            x++;
+
+        while(i < nums1.length){
+            arr.add(nums1[i++]);
         }
-        Arrays.sort(arr);
-        int[][] arr2=new int[hm.size()][2];
-        for (int i=0;i<arr.length;i++){
-            arr2[i]=new int[]{arr[i],hm.get(arr[i])};
-        } 
-        return arr2;
+        while(j < nums2.length){
+            arr.add(nums2[j++]);
+        }
+
+        return arr.toArray(int[][]:: new);      
     }
 }
