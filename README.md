@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0854-making-a-large-island](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0952-word-subsets) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0768-partition-labels](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0797-rabbits-in-forest](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1477-product-of-the-last-k-numbers](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/GautamPatil05/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
